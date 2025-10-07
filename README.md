@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Chaniru Puldith
 
-**```<DEVELOPER/>```<br/>```Full-stack Development``` ```🌏 WEB``` ```📱 MOBILE```**<br/>
+**```<DEVELOPER/>```<br/>```Full-stack Development```<br/>```🌏 WEB```&nbsp;```📱 MOBILE```**<br/>
 
 ### About Me
 I'm a developer currently working as an Associate Software Engineer @ <a href="https://share.google/YgBDjEeYkyRXw6azv" target="_blank">```LUXN PVT LTD```</a>.<br/><br/>
@@ -12,7 +12,7 @@ I enjoy solving real-world problems through thoughtful software design and const
 
 #### Interests
 * Web Application Development.
-* Mobile Applecation Development.
+* Mobile Application Development.
 * Full-stack Development.
 
 ### TechStack
@@ -48,6 +48,7 @@ I enjoy solving real-world problems through thoughtful software design and const
 <img align="center" width="40em" style="padding:20px;" title="Visual Studio" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />&nbsp;
 <img align="center" width="40em" style="padding:20px;" title="Android Studio" alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />&nbsp;
 <img align="center" width="40em" style="padding:20px;" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;
+<img align="center" width="40em" style="padding:20px;" title="Bash" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />&nbsp;
 
 ### Connect with Me
 Feel free to connect with me on professional networks or drop me an email if you want to discuss technology, software engineering, or anything else!
