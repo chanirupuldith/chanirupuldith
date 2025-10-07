@@ -25,10 +25,10 @@ I enjoy solving real-world problems through thoughtful software design and const
 <img align="center" width="40em" style="padding:20px;" title="Dart" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />&nbsp;
 <img align="center" width="40em" style="padding:20px;" title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;
 <img align="center" width="40em" style="padding:20px;" title="C#" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;
-<img align="center" width="60em" style="padding:20px;" title="PHP" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;
+<img align="center" width="55em" style="padding:20px;" title="PHP" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;
 <img align="center" width="45em" style="padding:20px;" title="WordPress" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />&nbsp;
 <img align="center" width="40em" style="padding:20px;" title="Firebase" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />&nbsp;
-<img align="center" width="70em" style="padding:20px;" title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
+<img align="center" width="65em" style="padding:20px;" title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
 <img align="center" width="50em" style="padding:20px;" title="Microsoft SQL Server" alt="Microsoft SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />&nbsp;
 <img align="center" width="40em" style="padding:20px;" title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
 <img align="center" width="40em" style="padding:20px;" title="Vue JS" alt="Vue JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />&nbsp;
