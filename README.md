@@ -3,7 +3,7 @@
 **```<DEVELOPER/>```<br/>```Full-stack Development```<br/>```🌏 WEB```&nbsp;```📱 MOBILE```**<br/>
 
 ### About Me
-I'm a developer currently working as an Associate Software Engineer @ <a href="https://share.google/YgBDjEeYkyRXw6azv" target="_blank">```LUXN PVT LTD```</a>.<br/><br/>
+I'm a developer; currently working as an Associate Software Engineer @ <a href="https://share.google/YgBDjEeYkyRXw6azv" target="_blank">```LUXN PVT LTD```</a>.<br/><br/>
 I enjoy solving real-world problems through thoughtful software design and constantly improving my skills. Working in collaborative teams that value learning and innovation is where I thrive. Let’s connect and discuss how we can create impactful solutions together.
 
 #### Education
