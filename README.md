@@ -1,6 +1,7 @@
-## Hi there 👋 I'm Chaniru Puldith
+## Hi there 👋 I'm Chaniru Puldith&nbsp;<sup>```<DEVELOPER/>```</sup>
 
-**```<DEVELOPER/>```<br/>```Full-stack Development```<br/>```🌏 WEB```&nbsp;```📱 MOBILE```**<br/>
+**```Full-stack Development```**&ensp;
+**```🌏 WEB```&ensp;```📱 MOBILE```**<br/>
 
 ### About Me
 I'm a developer; currently working as an Associate Software Engineer @ <a href="https://share.google/YgBDjEeYkyRXw6azv" target="_blank">```LUXN PVT LTD```</a>.<br/><br/>
